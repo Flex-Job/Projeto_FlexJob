@@ -349,8 +349,8 @@ header {
   height: 500px;
   display: inline-block;
   position: absolute;
-  left: 800px;
-  top: 100px;
+  margin-left: 800px;
+  margin-top: -468px;
 
 }
 
