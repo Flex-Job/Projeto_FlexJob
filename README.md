@@ -6,7 +6,7 @@ https://flex-job.github.io/Projeto_FlexJob/index.html
 
 Colaboradores:
 
-Anderson Cristiano Freitas Raimundo
+Anderson Cristiano Freitas Raimundo <br>
 Gabriel Louis da Silva Meszaros
 Leonardo Cassiano dos Santos
 Paulo Rafael Costa Sanges
