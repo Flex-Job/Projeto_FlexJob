@@ -1,7 +1,7 @@
-<strong>Link de apresentação do nosso vídeo no YouTube</strong>
+<strong>Link de apresentação do nosso vídeo no YouTube</strong><br>
 https://www.youtube.com/watch?v=LYOTM1OQ844
 
-Link de Acesso ao Nosso Site:
+<strong>Link de Acesso ao Nosso Site:</strong><br>
 https://flex-job.github.io/Projeto_FlexJob/index.html
 
 Colaboradores:
